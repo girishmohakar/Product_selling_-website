@@ -51,7 +51,7 @@ It's ideal for beginners learning HTML & CSS, or as a UI prototype.
 ---
 # screenshots 
 ![screenshot](https://github.com/girishmohakar/Product_selling_-website/blob/main/IMG-20250606-WA0000.jpg)
-![screenshot]()
+![screenshot](IMG-20250606-WA0001.jpg)
 
 # 📬 Contact
 
